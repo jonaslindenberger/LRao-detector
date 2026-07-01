@@ -3,7 +3,7 @@ This repository provides the python implementations of two examples for the CNN 
 
 This code was designed as a straightforward implementation rather than a reusable library. It is intended to provide a basic foundation that others can build upon for their own applications.
 
-The python notebooks can be executed to apply the detectors to the simulated and the real-world data. 
+The Jupyter notebooks can be executed to apply the detectors to the simulated and the real-world data. 
 
 ## Requirements
 
